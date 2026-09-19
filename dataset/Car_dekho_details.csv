@@ -1,0 +1,1001 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner
+Mercedes X5,2018,2379431,143962,Diesel,Trustmark Dealer,Manual,Third Owner
+Toyota Fortuner,2019,4409738,140526,Diesel,Dealer,Automatic,Fourth & Above Owner
+Tata Swift,2007,919407,119162,CNG,Individual,Automatic,Third Owner
+Audi Swift,2012,2738143,130927,LPG,Dealer,Manual,Second Owner
+Ford Swift,2020,537913,18026,Petrol,Individual,Manual,First Owner
+Mercedes Swift,2014,4115770,74925,Petrol,Individual,Automatic,Third Owner
+Mahindra Swift,2008,528821,78842,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Honda City,2022,2380707,43665,Petrol,Trustmark Dealer,Automatic,Second Owner
+Mercedes Fortuner,2006,1901243,19277,LPG,Trustmark Dealer,Manual,First Owner
+Tata X5,2021,4087008,58008,Diesel,Dealer,Manual,Fourth & Above Owner
+Tata X5,2017,2012375,24683,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Audi X5,2008,3827447,141742,Petrol,Individual,Automatic,Fourth & Above Owner
+Ford X5,2015,3815652,88542,LPG,Trustmark Dealer,Manual,Third Owner
+Toyota City,2011,268803,64319,CNG,Trustmark Dealer,Automatic,Second Owner
+Audi C-Class,2016,1007744,102067,Diesel,Dealer,Manual,Fourth & Above Owner
+Audi Fortuner,2014,948736,78975,Diesel,Dealer,Manual,Third Owner
+Honda Swift,2011,899539,111158,LPG,Individual,Manual,Second Owner
+BMW C-Class,2017,445404,21577,Petrol,Dealer,Automatic,Second Owner
+Ford X5,2011,217297,87299,CNG,Trustmark Dealer,Automatic,Third Owner
+Hyundai C-Class,2021,988443,30176,Diesel,Dealer,Automatic,Third Owner
+Audi Fortuner,2014,3855074,73972,Diesel,Individual,Automatic,Fourth & Above Owner
+BMW Swift,2014,3465962,130018,Petrol,Trustmark Dealer,Manual,Second Owner
+Hyundai Swift,2008,4962606,29996,Petrol,Individual,Automatic,First Owner
+Ford Fortuner,2008,3226394,110922,CNG,Dealer,Manual,Third Owner
+Maruti Fortuner,2011,1427146,96598,LPG,Dealer,Automatic,Second Owner
+Mahindra X5,2005,3080304,45931,Petrol,Individual,Automatic,Second Owner
+BMW Swift,2016,1533572,134168,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Jaguar C-Class,2017,4905907,133099,CNG,Dealer,Manual,First Owner
+Maruti City,2014,815863,44693,LPG,Dealer,Automatic,Fourth & Above Owner
+Tata City,2019,4901669,118944,Diesel,Trustmark Dealer,Automatic,First Owner
+Tata Fortuner,2017,3965056,27374,LPG,Dealer,Manual,First Owner
+Mahindra X5,2013,3525315,91471,CNG,Individual,Manual,Third Owner
+Honda City,2013,1028791,55913,CNG,Dealer,Manual,Second Owner
+Mercedes Swift,2019,4020887,133683,CNG,Dealer,Manual,Second Owner
+Toyota Fortuner,2014,3046274,54516,LPG,Trustmark Dealer,Manual,Second Owner
+Jaguar C-Class,2014,4595564,97796,Diesel,Individual,Automatic,First Owner
+Honda Fortuner,2012,576794,36069,Petrol,Trustmark Dealer,Automatic,Second Owner
+Ford C-Class,2020,4078450,128333,Diesel,Dealer,Automatic,Third Owner
+Honda Fortuner,2021,3233349,94811,LPG,Dealer,Automatic,First Owner
+Mercedes Fortuner,2009,1721466,128028,LPG,Trustmark Dealer,Manual,First Owner
+Ford Fortuner,2008,2680252,49178,Petrol,Trustmark Dealer,Manual,First Owner
+Jaguar C-Class,2022,982877,42821,LPG,Trustmark Dealer,Manual,First Owner
+Mercedes C-Class,2023,4085180,26999,CNG,Individual,Automatic,Third Owner
+Hyundai Fortuner,2008,3810793,48712,CNG,Dealer,Manual,Second Owner
+Toyota City,2011,3499973,43722,CNG,Trustmark Dealer,Manual,Third Owner
+Jaguar X5,2014,3280977,20625,CNG,Dealer,Automatic,Second Owner
+Hyundai X5,2022,2499899,16859,CNG,Individual,Automatic,Third Owner
+Mahindra X5,2023,2172424,120986,LPG,Individual,Automatic,Fourth & Above Owner
+Jaguar C-Class,2008,1536092,31839,Petrol,Individual,Manual,Fourth & Above Owner
+Mahindra C-Class,2014,1050350,37216,Petrol,Individual,Manual,Fourth & Above Owner
+Ford City,2005,3679027,62953,CNG,Dealer,Automatic,Fourth & Above Owner
+Hyundai X5,2022,3405228,59522,LPG,Individual,Automatic,First Owner
+Toyota X5,2009,367647,145958,Diesel,Individual,Manual,First Owner
+Mercedes Fortuner,2019,2533679,121249,Diesel,Trustmark Dealer,Automatic,Third Owner
+Audi C-Class,2021,635477,17485,LPG,Individual,Manual,Third Owner
+Honda X5,2007,1883523,122701,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti City,2016,4396656,112638,Petrol,Individual,Automatic,Second Owner
+Toyota City,2006,4527308,22226,LPG,Individual,Automatic,Fourth & Above Owner
+Hyundai X5,2005,3160033,103405,Diesel,Trustmark Dealer,Manual,Third Owner
+Audi C-Class,2021,1781420,32588,Diesel,Individual,Manual,Fourth & Above Owner
+Toyota City,2020,986261,47019,Diesel,Dealer,Automatic,Third Owner
+Hyundai Fortuner,2009,3694708,75133,CNG,Dealer,Manual,Fourth & Above Owner
+BMW City,2019,3028630,124444,Diesel,Individual,Automatic,Second Owner
+BMW Swift,2007,4444402,127603,LPG,Dealer,Automatic,Fourth & Above Owner
+Mahindra Swift,2011,3279042,138585,LPG,Trustmark Dealer,Manual,Second Owner
+Toyota C-Class,2015,2962081,53395,Diesel,Individual,Manual,Second Owner
+BMW X5,2014,326060,135814,LPG,Individual,Manual,Third Owner
+Hyundai C-Class,2013,4524848,122599,Diesel,Trustmark Dealer,Manual,Second Owner
+Mahindra C-Class,2018,2996461,35939,Diesel,Trustmark Dealer,Automatic,First Owner
+Hyundai C-Class,2017,3277099,10203,Petrol,Trustmark Dealer,Manual,First Owner
+Mahindra C-Class,2006,3044180,39063,CNG,Individual,Manual,First Owner
+Toyota Fortuner,2007,2821578,100880,CNG,Trustmark Dealer,Automatic,Third Owner
+Audi Fortuner,2011,4787878,13748,Petrol,Trustmark Dealer,Automatic,First Owner
+Mercedes City,2022,1872795,127269,Petrol,Dealer,Automatic,Third Owner
+Jaguar Swift,2007,4293886,90764,CNG,Dealer,Automatic,Third Owner
+Audi C-Class,2014,2454103,118036,Diesel,Individual,Manual,First Owner
+Ford City,2011,3139362,126525,Diesel,Dealer,Manual,Second Owner
+Hyundai Swift,2013,762060,95679,CNG,Dealer,Automatic,Fourth & Above Owner
+Ford X5,2021,1706145,135829,Diesel,Trustmark Dealer,Automatic,Third Owner
+Audi Fortuner,2015,2848202,138216,Petrol,Trustmark Dealer,Manual,First Owner
+Mahindra Swift,2011,1392931,143175,Diesel,Dealer,Manual,Third Owner
+Jaguar X5,2018,1071522,75901,Diesel,Dealer,Manual,Second Owner
+Jaguar Swift,2023,1742247,108046,LPG,Dealer,Manual,Second Owner
+Maruti Fortuner,2008,4572216,100012,LPG,Individual,Manual,First Owner
+Jaguar Fortuner,2010,2381906,88278,LPG,Individual,Automatic,Third Owner
+Mercedes City,2014,802276,22391,Diesel,Individual,Automatic,Fourth & Above Owner
+Jaguar C-Class,2011,1700134,112476,CNG,Dealer,Automatic,Fourth & Above Owner
+Audi Swift,2017,2804884,130721,Petrol,Dealer,Automatic,Third Owner
+Maruti Swift,2018,1905243,107537,Diesel,Individual,Manual,Third Owner
+Audi X5,2008,4474692,91159,CNG,Individual,Automatic,Third Owner
+Audi Fortuner,2012,4222928,141040,Diesel,Dealer,Manual,First Owner
+Tata Swift,2009,439779,45503,Petrol,Trustmark Dealer,Manual,Second Owner
+Honda Fortuner,2005,3175605,85403,Diesel,Individual,Manual,Fourth & Above Owner
+Maruti Swift,2008,988140,74286,Petrol,Dealer,Manual,First Owner
+Audi City,2007,3758539,84842,Diesel,Dealer,Manual,Third Owner
+Honda C-Class,2013,3946037,114927,Petrol,Trustmark Dealer,Manual,Third Owner
+Honda Swift,2012,2323238,24908,Diesel,Dealer,Manual,Second Owner
+Maruti Fortuner,2005,4926276,47228,Petrol,Dealer,Automatic,Third Owner
+Tata City,2010,4788727,33386,LPG,Individual,Manual,First Owner
+Ford Swift,2013,1818963,38302,Diesel,Individual,Automatic,First Owner
+Mahindra X5,2011,790381,70815,Diesel,Trustmark Dealer,Automatic,Second Owner
+Mercedes C-Class,2008,3132235,73344,CNG,Trustmark Dealer,Manual,First Owner
+Mahindra Swift,2017,3883909,121603,CNG,Dealer,Manual,Fourth & Above Owner
+Jaguar City,2021,1739600,71114,Petrol,Individual,Automatic,First Owner
+Mercedes X5,2006,2427503,35525,Diesel,Trustmark Dealer,Automatic,First Owner
+Jaguar City,2009,4432939,89818,Petrol,Trustmark Dealer,Automatic,First Owner
+Audi City,2016,3270771,124589,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Hyundai X5,2012,1343647,104715,CNG,Dealer,Manual,Third Owner
+Maruti City,2010,3811646,16644,Petrol,Individual,Manual,First Owner
+Mercedes X5,2012,1616953,111154,Petrol,Trustmark Dealer,Manual,Second Owner
+Mercedes Swift,2022,2894245,53469,CNG,Individual,Automatic,Fourth & Above Owner
+Audi X5,2007,4322186,116609,Diesel,Trustmark Dealer,Manual,Second Owner
+Ford X5,2016,621280,75206,Petrol,Trustmark Dealer,Automatic,First Owner
+Honda C-Class,2007,1109245,106462,CNG,Individual,Manual,Second Owner
+Audi X5,2010,541207,93178,Diesel,Individual,Automatic,First Owner
+BMW X5,2006,1430746,96724,LPG,Individual,Manual,Fourth & Above Owner
+Tata Swift,2016,3489791,106393,CNG,Dealer,Manual,Second Owner
+Honda C-Class,2006,792632,137314,Petrol,Trustmark Dealer,Automatic,Second Owner
+Maruti Fortuner,2010,4237106,86312,LPG,Dealer,Automatic,First Owner
+Honda Swift,2021,4955185,85324,Diesel,Individual,Automatic,First Owner
+Ford Swift,2007,4954896,81196,Diesel,Trustmark Dealer,Automatic,Third Owner
+Honda Fortuner,2006,1672178,80014,CNG,Dealer,Automatic,First Owner
+Maruti X5,2012,1362189,149282,CNG,Trustmark Dealer,Manual,First Owner
+Ford City,2016,4070426,43340,CNG,Dealer,Automatic,Third Owner
+Mahindra C-Class,2008,614299,49850,Diesel,Individual,Manual,First Owner
+Mercedes City,2009,2581486,123711,LPG,Dealer,Manual,First Owner
+Mercedes Fortuner,2017,3876158,21094,Diesel,Trustmark Dealer,Manual,Third Owner
+Tata Swift,2019,4361900,97959,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Jaguar Swift,2020,325438,15741,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Mahindra C-Class,2014,3970183,121585,Petrol,Trustmark Dealer,Automatic,First Owner
+Mahindra Swift,2020,2117043,132564,LPG,Individual,Automatic,First Owner
+Honda Swift,2016,2399391,78798,CNG,Dealer,Manual,Third Owner
+Mercedes C-Class,2021,835719,126026,CNG,Individual,Manual,Third Owner
+Maruti C-Class,2020,3001445,120130,Diesel,Individual,Automatic,Fourth & Above Owner
+Toyota Fortuner,2016,1008258,32164,CNG,Individual,Automatic,Second Owner
+Toyota Swift,2012,4724474,40257,LPG,Trustmark Dealer,Manual,First Owner
+Ford Swift,2007,3064140,105989,CNG,Trustmark Dealer,Automatic,Second Owner
+Mercedes Fortuner,2020,3764462,146304,Diesel,Trustmark Dealer,Automatic,Second Owner
+Mercedes X5,2017,381948,62691,LPG,Dealer,Automatic,Third Owner
+Tata X5,2023,2782814,89768,Petrol,Trustmark Dealer,Manual,First Owner
+Toyota X5,2012,3969457,24026,Diesel,Dealer,Automatic,First Owner
+Mercedes Fortuner,2009,1406751,40908,Petrol,Trustmark Dealer,Manual,Third Owner
+Tata Swift,2012,1153692,29610,LPG,Trustmark Dealer,Manual,Second Owner
+Honda Fortuner,2016,417770,73185,Diesel,Individual,Manual,Third Owner
+BMW Fortuner,2005,4299906,82567,Diesel,Individual,Manual,Fourth & Above Owner
+Hyundai X5,2010,2637245,46182,LPG,Individual,Manual,First Owner
+Mahindra City,2022,2902882,126136,CNG,Dealer,Automatic,Fourth & Above Owner
+Jaguar Swift,2012,1990008,141642,Diesel,Dealer,Manual,Third Owner
+Ford X5,2011,2026525,29288,Diesel,Trustmark Dealer,Manual,First Owner
+BMW City,2005,4713070,88824,Petrol,Dealer,Manual,Fourth & Above Owner
+Toyota City,2020,1538530,94425,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Tata C-Class,2016,4666951,10917,Petrol,Dealer,Automatic,Second Owner
+Mahindra Swift,2010,2381913,85602,Petrol,Dealer,Automatic,First Owner
+Mercedes City,2006,1678768,74575,CNG,Dealer,Automatic,Fourth & Above Owner
+Jaguar X5,2018,1765213,82518,CNG,Individual,Automatic,Fourth & Above Owner
+Mercedes C-Class,2008,2963398,49104,LPG,Dealer,Automatic,Second Owner
+Maruti Swift,2005,888152,26999,CNG,Individual,Automatic,Fourth & Above Owner
+Maruti Fortuner,2022,602980,71169,Diesel,Individual,Manual,Fourth & Above Owner
+Jaguar X5,2017,1238336,139744,CNG,Dealer,Manual,Fourth & Above Owner
+Tata City,2006,3078350,120684,LPG,Trustmark Dealer,Automatic,Second Owner
+Jaguar City,2013,1368932,69821,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Toyota X5,2006,1649087,145601,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Jaguar City,2013,2731528,22192,CNG,Dealer,Automatic,First Owner
+Honda C-Class,2005,2308542,84102,CNG,Trustmark Dealer,Manual,First Owner
+Mercedes Swift,2015,1137635,124894,Petrol,Individual,Manual,Second Owner
+BMW C-Class,2007,3702626,96795,Petrol,Trustmark Dealer,Automatic,Third Owner
+Audi City,2008,1586689,76677,Diesel,Dealer,Manual,First Owner
+Tata Fortuner,2022,4016126,145699,Petrol,Trustmark Dealer,Automatic,Second Owner
+Jaguar Swift,2010,3266983,144327,Diesel,Individual,Automatic,Fourth & Above Owner
+Ford Swift,2007,3046230,146285,LPG,Dealer,Manual,Fourth & Above Owner
+Maruti X5,2015,2318433,112412,Petrol,Trustmark Dealer,Manual,Second Owner
+Honda X5,2019,4656397,29404,CNG,Dealer,Manual,Fourth & Above Owner
+Mahindra Fortuner,2009,3878621,126545,Petrol,Dealer,Automatic,Fourth & Above Owner
+Audi Swift,2014,4756766,33989,Diesel,Dealer,Automatic,Third Owner
+Tata Fortuner,2016,1497991,118106,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+BMW X5,2019,3931404,34519,LPG,Dealer,Manual,First Owner
+Audi X5,2021,2014188,32439,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Jaguar Swift,2014,2307359,128570,Diesel,Individual,Automatic,Second Owner
+Toyota C-Class,2010,418401,24995,CNG,Trustmark Dealer,Manual,Third Owner
+Maruti City,2022,1185132,33559,CNG,Individual,Manual,Fourth & Above Owner
+Maruti X5,2017,359292,99049,Diesel,Trustmark Dealer,Automatic,Second Owner
+Mahindra X5,2007,4891066,146093,CNG,Dealer,Automatic,First Owner
+Toyota C-Class,2014,3367759,108000,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Mercedes C-Class,2018,663937,49350,Petrol,Dealer,Automatic,Third Owner
+Hyundai Fortuner,2010,3164391,35517,CNG,Individual,Manual,Fourth & Above Owner
+Honda Fortuner,2007,2881206,99132,CNG,Trustmark Dealer,Automatic,Second Owner
+Maruti City,2020,1392097,69546,CNG,Dealer,Automatic,Third Owner
+Ford City,2011,387771,115686,CNG,Individual,Automatic,Fourth & Above Owner
+Maruti Swift,2018,437199,98151,Diesel,Individual,Manual,First Owner
+Audi Fortuner,2013,3057281,13327,LPG,Trustmark Dealer,Manual,Third Owner
+Maruti X5,2019,2932481,130318,Petrol,Individual,Automatic,First Owner
+Tata Fortuner,2007,2474316,125945,CNG,Dealer,Automatic,Second Owner
+Maruti X5,2006,3802615,56830,CNG,Individual,Automatic,Fourth & Above Owner
+Hyundai C-Class,2006,1783214,62446,Diesel,Individual,Manual,First Owner
+Hyundai Fortuner,2007,951518,79341,LPG,Dealer,Automatic,Second Owner
+BMW C-Class,2022,713313,41085,CNG,Individual,Automatic,Fourth & Above Owner
+Mercedes City,2018,4131586,65571,Diesel,Individual,Automatic,Second Owner
+Ford City,2022,3414215,138308,Petrol,Individual,Automatic,First Owner
+Maruti Swift,2014,3660989,15750,Petrol,Individual,Manual,Second Owner
+Maruti Fortuner,2006,2532214,123931,CNG,Dealer,Manual,Third Owner
+Honda C-Class,2005,2530229,88768,CNG,Individual,Automatic,Fourth & Above Owner
+Hyundai X5,2008,2063462,45903,LPG,Dealer,Manual,Second Owner
+Ford City,2018,854224,101036,LPG,Individual,Manual,First Owner
+Mahindra City,2005,2450397,97954,CNG,Individual,Manual,Fourth & Above Owner
+BMW X5,2018,2199284,93014,Diesel,Individual,Automatic,Third Owner
+Mercedes C-Class,2020,2201676,127305,LPG,Individual,Manual,Fourth & Above Owner
+Toyota C-Class,2018,1884532,42101,CNG,Dealer,Manual,Third Owner
+Mercedes Fortuner,2007,654418,12775,LPG,Dealer,Manual,Fourth & Above Owner
+Tata Fortuner,2007,1672542,121497,CNG,Dealer,Automatic,Second Owner
+Audi Swift,2013,4673014,55619,Petrol,Trustmark Dealer,Automatic,Second Owner
+Tata City,2010,762621,67124,CNG,Individual,Manual,First Owner
+Maruti Fortuner,2017,3729801,75149,Petrol,Individual,Manual,Third Owner
+BMW C-Class,2006,1798099,36616,LPG,Dealer,Automatic,First Owner
+Audi X5,2012,4394463,71799,CNG,Trustmark Dealer,Automatic,Second Owner
+Ford C-Class,2006,4013233,100221,LPG,Individual,Manual,Third Owner
+Toyota City,2008,1411569,124879,Petrol,Dealer,Manual,First Owner
+Hyundai C-Class,2019,4761307,35479,CNG,Individual,Automatic,First Owner
+BMW Swift,2008,1395885,109165,LPG,Individual,Automatic,First Owner
+BMW City,2017,1356083,65863,Petrol,Dealer,Manual,First Owner
+Tata X5,2016,2174324,92569,LPG,Dealer,Automatic,First Owner
+Maruti Swift,2017,4098190,26351,Diesel,Individual,Manual,Third Owner
+Jaguar City,2018,3588445,145203,Petrol,Individual,Manual,First Owner
+Tata X5,2022,2942974,54825,Petrol,Dealer,Manual,Third Owner
+BMW Swift,2010,3692099,21349,Petrol,Individual,Automatic,First Owner
+Honda Swift,2015,1479180,54254,CNG,Individual,Manual,Second Owner
+Toyota City,2006,3533178,48225,CNG,Dealer,Manual,Second Owner
+Tata Fortuner,2023,4731211,22453,CNG,Individual,Automatic,First Owner
+Toyota Swift,2023,2784182,87694,Diesel,Individual,Automatic,Fourth & Above Owner
+Honda Swift,2009,2008286,25735,Diesel,Trustmark Dealer,Manual,Second Owner
+Mahindra X5,2023,4799757,57893,Petrol,Dealer,Manual,Third Owner
+Honda C-Class,2006,4563089,137006,Diesel,Trustmark Dealer,Automatic,First Owner
+Honda City,2014,2997921,55066,LPG,Trustmark Dealer,Automatic,Third Owner
+Toyota City,2006,4574142,144445,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+Mercedes Fortuner,2015,469160,20692,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2022,2769931,55541,LPG,Individual,Manual,Second Owner
+Jaguar City,2019,641904,76983,Petrol,Trustmark Dealer,Manual,Third Owner
+Maruti Fortuner,2013,778526,130747,Diesel,Trustmark Dealer,Automatic,Second Owner
+Audi X5,2023,1037393,95103,CNG,Trustmark Dealer,Manual,Second Owner
+Mercedes City,2013,3545503,35566,LPG,Individual,Automatic,First Owner
+Hyundai Fortuner,2007,1014422,83193,Diesel,Trustmark Dealer,Manual,Third Owner
+Audi City,2013,934983,131015,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti C-Class,2018,2463429,140956,LPG,Dealer,Manual,Second Owner
+Tata Swift,2023,3335812,80744,Petrol,Dealer,Manual,First Owner
+Jaguar City,2011,4475115,43455,Petrol,Individual,Automatic,First Owner
+Jaguar Swift,2020,3076280,64219,Diesel,Dealer,Automatic,Fourth & Above Owner
+Hyundai Fortuner,2020,3138687,55991,LPG,Dealer,Manual,First Owner
+Mercedes Swift,2005,1616842,83616,Petrol,Dealer,Automatic,Second Owner
+Mahindra City,2008,2531256,97438,Petrol,Individual,Automatic,First Owner
+Honda C-Class,2008,3889024,126841,LPG,Dealer,Manual,Third Owner
+Mercedes Fortuner,2011,4596650,68870,Diesel,Individual,Automatic,Third Owner
+Mahindra City,2012,3902418,96694,Diesel,Trustmark Dealer,Manual,Second Owner
+Jaguar Fortuner,2021,2481608,53856,LPG,Dealer,Manual,Third Owner
+Toyota X5,2009,4130010,111407,Diesel,Individual,Automatic,Fourth & Above Owner
+Maruti Swift,2011,3841771,41379,Petrol,Dealer,Automatic,First Owner
+Hyundai X5,2008,4279441,74729,LPG,Trustmark Dealer,Manual,Second Owner
+Maruti City,2010,1160652,64353,Petrol,Individual,Manual,Fourth & Above Owner
+Ford C-Class,2011,2388370,24031,CNG,Individual,Manual,First Owner
+Ford Fortuner,2022,1748485,75982,CNG,Individual,Manual,Fourth & Above Owner
+Tata Swift,2009,1767343,46683,Diesel,Trustmark Dealer,Manual,Second Owner
+Mercedes Fortuner,2007,3525495,124091,CNG,Trustmark Dealer,Manual,Second Owner
+Jaguar City,2011,3585744,127797,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+Jaguar Fortuner,2018,955612,16587,CNG,Individual,Automatic,First Owner
+Honda Swift,2011,4194528,72790,Petrol,Trustmark Dealer,Automatic,Third Owner
+Honda City,2009,2276475,41480,Diesel,Dealer,Manual,Third Owner
+Honda Fortuner,2009,2341912,33569,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Toyota C-Class,2006,3344311,21151,Petrol,Individual,Manual,Second Owner
+Audi City,2010,485622,54739,CNG,Dealer,Manual,First Owner
+BMW City,2019,2162889,42954,Diesel,Trustmark Dealer,Automatic,First Owner
+Audi C-Class,2014,2106862,119373,LPG,Dealer,Manual,Second Owner
+Maruti X5,2011,4226390,44700,Diesel,Dealer,Manual,Third Owner
+Audi Swift,2009,1596436,133728,CNG,Individual,Manual,First Owner
+Toyota X5,2005,867540,76788,LPG,Dealer,Manual,Fourth & Above Owner
+Tata Fortuner,2017,2395690,81045,CNG,Dealer,Manual,Third Owner
+Maruti C-Class,2022,1788236,137992,Petrol,Individual,Manual,Fourth & Above Owner
+Audi X5,2017,4905815,90059,LPG,Individual,Automatic,Third Owner
+Toyota City,2022,3182410,11881,CNG,Individual,Manual,Second Owner
+BMW Fortuner,2009,1604355,142702,LPG,Dealer,Manual,Fourth & Above Owner
+Audi Fortuner,2017,2875480,30789,CNG,Dealer,Manual,Fourth & Above Owner
+Toyota X5,2008,3624083,136083,LPG,Dealer,Manual,Second Owner
+Honda X5,2021,2664722,98059,CNG,Individual,Automatic,Fourth & Above Owner
+Jaguar C-Class,2007,3101092,56151,Petrol,Trustmark Dealer,Automatic,Third Owner
+Honda Swift,2021,2450229,119388,LPG,Dealer,Manual,First Owner
+Jaguar X5,2015,1722534,13262,LPG,Trustmark Dealer,Manual,First Owner
+Hyundai X5,2008,1922907,76981,LPG,Individual,Manual,Second Owner
+Hyundai City,2006,2715967,130951,LPG,Dealer,Automatic,Third Owner
+Hyundai Fortuner,2020,4875112,133099,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+BMW Swift,2022,3070574,91972,LPG,Dealer,Automatic,Fourth & Above Owner
+Honda City,2012,3088939,85485,Diesel,Dealer,Automatic,First Owner
+Jaguar C-Class,2007,4186280,64722,Petrol,Dealer,Manual,Fourth & Above Owner
+Toyota C-Class,2013,2244940,99499,Diesel,Trustmark Dealer,Automatic,First Owner
+Maruti X5,2010,2299409,16901,LPG,Individual,Automatic,Second Owner
+Toyota X5,2014,3372382,127473,CNG,Dealer,Manual,Fourth & Above Owner
+Maruti C-Class,2014,4081857,18597,Diesel,Individual,Manual,Third Owner
+Ford X5,2017,4737871,139631,LPG,Individual,Automatic,Fourth & Above Owner
+Toyota Swift,2021,491464,73909,Diesel,Trustmark Dealer,Automatic,First Owner
+Audi X5,2013,4939400,82391,LPG,Trustmark Dealer,Automatic,Second Owner
+Audi Fortuner,2021,2873829,149335,LPG,Individual,Automatic,First Owner
+Mercedes X5,2013,318581,73293,LPG,Dealer,Manual,Fourth & Above Owner
+Honda City,2013,4052256,21874,CNG,Trustmark Dealer,Manual,First Owner
+Maruti Swift,2005,538540,96402,Diesel,Dealer,Automatic,First Owner
+Maruti City,2006,701590,24079,Petrol,Dealer,Automatic,Second Owner
+Tata City,2020,1618412,82779,Petrol,Dealer,Automatic,Third Owner
+Honda Fortuner,2005,3560492,105408,Petrol,Individual,Automatic,Fourth & Above Owner
+BMW Swift,2014,1830369,130606,Petrol,Dealer,Automatic,Second Owner
+Mercedes Swift,2022,1072328,130062,LPG,Individual,Manual,Third Owner
+BMW Swift,2012,3310691,22100,Diesel,Individual,Manual,First Owner
+BMW Swift,2015,1558097,67021,Diesel,Dealer,Manual,Third Owner
+BMW Swift,2006,3500354,138126,CNG,Dealer,Automatic,First Owner
+Honda Fortuner,2012,1494315,102446,Diesel,Dealer,Automatic,First Owner
+BMW X5,2012,2775508,39437,Diesel,Dealer,Manual,Second Owner
+Audi City,2021,2576219,30862,Diesel,Individual,Manual,First Owner
+Tata Swift,2019,1558311,21669,CNG,Dealer,Automatic,Second Owner
+Tata X5,2021,4710784,131219,Petrol,Dealer,Manual,Third Owner
+Hyundai X5,2017,1489467,25916,Diesel,Individual,Automatic,Third Owner
+Ford City,2023,364074,20878,CNG,Trustmark Dealer,Automatic,First Owner
+Maruti Fortuner,2009,2770466,12985,CNG,Trustmark Dealer,Manual,Second Owner
+Maruti C-Class,2016,3855180,51235,LPG,Individual,Manual,First Owner
+Ford C-Class,2005,4683120,28931,CNG,Trustmark Dealer,Manual,Second Owner
+Honda X5,2009,990645,102876,Petrol,Individual,Automatic,Second Owner
+Toyota City,2012,3487093,10336,Diesel,Dealer,Automatic,Second Owner
+Honda C-Class,2017,1217481,52933,CNG,Dealer,Manual,Third Owner
+Maruti X5,2012,3794804,55536,Petrol,Trustmark Dealer,Automatic,Second Owner
+Maruti Fortuner,2015,262507,79504,CNG,Dealer,Automatic,Third Owner
+Ford C-Class,2005,1305710,109214,CNG,Trustmark Dealer,Automatic,Second Owner
+BMW X5,2017,2538377,123936,CNG,Trustmark Dealer,Manual,Third Owner
+Honda X5,2023,4587373,26279,CNG,Dealer,Automatic,Fourth & Above Owner
+Jaguar Swift,2007,1006564,113751,CNG,Dealer,Manual,Third Owner
+Ford Fortuner,2021,4118949,114433,Petrol,Trustmark Dealer,Manual,Third Owner
+Audi Swift,2009,1809473,81386,Diesel,Dealer,Automatic,First Owner
+Maruti City,2012,1911952,96124,Diesel,Individual,Manual,Second Owner
+Ford Swift,2018,937954,115750,Diesel,Dealer,Automatic,Fourth & Above Owner
+Honda Swift,2008,3108056,87485,Diesel,Dealer,Manual,First Owner
+Maruti C-Class,2015,907173,84055,Petrol,Individual,Manual,Second Owner
+Toyota X5,2019,4710579,101911,LPG,Dealer,Automatic,Fourth & Above Owner
+Ford Fortuner,2023,879447,108618,LPG,Dealer,Manual,Fourth & Above Owner
+Mercedes Swift,2011,1261404,123892,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Maruti Fortuner,2023,3180248,81128,Petrol,Dealer,Manual,Second Owner
+Honda Swift,2023,2813987,62495,CNG,Dealer,Automatic,Fourth & Above Owner
+Hyundai City,2015,2953913,92806,CNG,Individual,Automatic,Fourth & Above Owner
+Jaguar Swift,2009,2735232,103185,CNG,Trustmark Dealer,Manual,First Owner
+Mahindra C-Class,2009,2578907,59649,Diesel,Trustmark Dealer,Manual,Third Owner
+BMW X5,2012,4732688,105402,CNG,Trustmark Dealer,Manual,Second Owner
+Mahindra City,2014,3029915,40676,LPG,Dealer,Automatic,Third Owner
+Honda Swift,2010,2563162,74093,Diesel,Trustmark Dealer,Automatic,First Owner
+Audi Fortuner,2019,1115113,89414,CNG,Individual,Manual,Third Owner
+Audi City,2020,2892794,103095,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Hyundai City,2021,2411549,82307,LPG,Individual,Automatic,Fourth & Above Owner
+BMW Swift,2012,2545704,105432,CNG,Trustmark Dealer,Automatic,Second Owner
+Mercedes City,2012,4781025,41923,LPG,Trustmark Dealer,Automatic,Second Owner
+Hyundai Fortuner,2013,623332,127449,LPG,Individual,Manual,Second Owner
+Tata City,2006,492575,57574,LPG,Trustmark Dealer,Automatic,First Owner
+Mahindra Fortuner,2019,1659700,131757,CNG,Trustmark Dealer,Automatic,Second Owner
+Hyundai Swift,2022,229336,63664,Petrol,Trustmark Dealer,Manual,First Owner
+Mahindra X5,2007,3401078,77384,CNG,Dealer,Manual,Fourth & Above Owner
+Maruti City,2021,1842425,41027,LPG,Individual,Automatic,Third Owner
+Audi X5,2008,2807622,44485,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti Fortuner,2008,2086963,45554,LPG,Individual,Manual,Fourth & Above Owner
+Jaguar City,2018,2972605,56922,Petrol,Individual,Manual,Fourth & Above Owner
+Tata C-Class,2013,1647947,23409,Diesel,Individual,Manual,Second Owner
+BMW X5,2013,4376426,46639,Petrol,Trustmark Dealer,Automatic,Second Owner
+Mercedes City,2022,4056756,29692,Petrol,Trustmark Dealer,Automatic,Second Owner
+Mahindra X5,2014,1698339,99037,Diesel,Individual,Manual,Third Owner
+Mercedes City,2008,876296,28074,CNG,Dealer,Automatic,Second Owner
+Mahindra Swift,2016,579039,39963,Diesel,Individual,Manual,First Owner
+Honda X5,2012,728714,62265,CNG,Dealer,Automatic,Fourth & Above Owner
+Hyundai C-Class,2006,3111190,26061,CNG,Individual,Manual,Third Owner
+Jaguar C-Class,2017,4835352,123502,LPG,Individual,Manual,Third Owner
+Audi Fortuner,2020,752439,32800,LPG,Individual,Automatic,Third Owner
+Mahindra City,2006,4342535,126192,Diesel,Trustmark Dealer,Automatic,Third Owner
+Mercedes X5,2015,473452,117228,Petrol,Dealer,Automatic,Third Owner
+Jaguar Fortuner,2014,978883,38054,Diesel,Dealer,Automatic,First Owner
+Toyota X5,2019,4571047,23233,CNG,Individual,Automatic,Fourth & Above Owner
+Toyota City,2021,2389921,75727,LPG,Trustmark Dealer,Automatic,Third Owner
+Maruti C-Class,2012,3398156,100610,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Audi Swift,2022,962371,80453,Diesel,Dealer,Automatic,Second Owner
+Honda C-Class,2013,3457945,114135,LPG,Trustmark Dealer,Manual,Third Owner
+Mercedes Fortuner,2012,3968950,118464,LPG,Dealer,Manual,Third Owner
+Hyundai Swift,2018,342980,23682,LPG,Dealer,Automatic,Fourth & Above Owner
+Hyundai Fortuner,2022,4896671,68160,CNG,Dealer,Manual,Third Owner
+Mercedes City,2016,2634003,33666,LPG,Trustmark Dealer,Manual,Third Owner
+BMW Swift,2023,457354,68817,Petrol,Dealer,Automatic,Third Owner
+Honda Fortuner,2018,3406943,101198,Diesel,Dealer,Automatic,First Owner
+Jaguar City,2021,2117160,51830,LPG,Individual,Automatic,First Owner
+Mahindra C-Class,2007,3515258,20234,LPG,Dealer,Manual,Third Owner
+BMW City,2011,4571545,67616,CNG,Dealer,Automatic,First Owner
+Mahindra X5,2021,2435883,19221,CNG,Individual,Automatic,Second Owner
+Mahindra City,2016,2750982,11051,Diesel,Individual,Automatic,Third Owner
+BMW City,2013,964265,120529,Petrol,Trustmark Dealer,Automatic,Second Owner
+Maruti X5,2019,508617,86918,Diesel,Dealer,Manual,Fourth & Above Owner
+Toyota Fortuner,2022,3180346,88116,LPG,Trustmark Dealer,Automatic,Second Owner
+Mahindra Fortuner,2017,944748,132226,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+BMW City,2012,3836562,54757,Petrol,Individual,Automatic,Third Owner
+BMW X5,2018,2254410,131008,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Tata X5,2012,2677748,141379,Petrol,Dealer,Manual,Fourth & Above Owner
+Ford C-Class,2018,934275,66889,Diesel,Individual,Manual,Second Owner
+Maruti Fortuner,2011,1497819,45944,CNG,Dealer,Automatic,Second Owner
+Audi Swift,2016,1234186,109555,CNG,Dealer,Manual,Second Owner
+Ford Fortuner,2015,798506,48134,LPG,Individual,Automatic,Third Owner
+Ford Fortuner,2015,756718,35954,CNG,Dealer,Automatic,Third Owner
+Mercedes C-Class,2017,1796853,99959,CNG,Individual,Automatic,Second Owner
+Toyota Swift,2022,552414,14992,CNG,Dealer,Automatic,Third Owner
+BMW C-Class,2006,3163944,11961,CNG,Individual,Automatic,Third Owner
+Toyota Swift,2019,2547693,22497,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda City,2022,2963545,23255,Diesel,Dealer,Automatic,Fourth & Above Owner
+Mercedes Swift,2019,3716144,145639,Petrol,Individual,Manual,Second Owner
+Audi C-Class,2023,4148401,58847,CNG,Dealer,Manual,Third Owner
+Toyota Fortuner,2016,324932,30389,Diesel,Dealer,Manual,Fourth & Above Owner
+Hyundai Swift,2017,468083,133802,CNG,Dealer,Manual,First Owner
+Mahindra Swift,2015,1951498,71576,CNG,Individual,Manual,Third Owner
+Honda X5,2009,4077809,53919,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Fortuner,2005,1758426,13358,Petrol,Trustmark Dealer,Manual,Second Owner
+Audi City,2007,3430431,98535,Petrol,Trustmark Dealer,Automatic,Third Owner
+Honda C-Class,2023,2792316,115982,CNG,Individual,Manual,Second Owner
+Mahindra City,2011,489220,15698,CNG,Trustmark Dealer,Automatic,Second Owner
+Mercedes Fortuner,2016,4176765,76809,CNG,Individual,Manual,Second Owner
+Mahindra Swift,2019,1595285,103079,Petrol,Dealer,Manual,Second Owner
+Ford Swift,2009,4876029,65805,LPG,Dealer,Manual,Second Owner
+Mahindra Fortuner,2019,3122705,85033,Diesel,Trustmark Dealer,Manual,Third Owner
+Ford Swift,2012,2864749,108239,LPG,Individual,Automatic,First Owner
+Mercedes Swift,2014,4199453,140407,CNG,Dealer,Automatic,Third Owner
+Jaguar Swift,2020,1606978,54041,CNG,Individual,Automatic,Third Owner
+Ford C-Class,2012,3121989,41954,LPG,Individual,Manual,Third Owner
+Maruti C-Class,2005,1184156,18002,CNG,Dealer,Manual,Fourth & Above Owner
+Mahindra X5,2016,3913543,79783,Diesel,Individual,Manual,Fourth & Above Owner
+Mahindra City,2009,1063659,117524,CNG,Dealer,Automatic,Third Owner
+Maruti Fortuner,2007,2437035,134857,Diesel,Dealer,Manual,First Owner
+Hyundai Fortuner,2005,1403920,29738,LPG,Dealer,Automatic,Third Owner
+BMW Fortuner,2008,3308591,20703,LPG,Individual,Automatic,Second Owner
+Jaguar X5,2012,3810954,123776,CNG,Dealer,Manual,Fourth & Above Owner
+Audi C-Class,2007,947852,54724,Diesel,Individual,Manual,Fourth & Above Owner
+Ford X5,2014,1356618,42299,CNG,Dealer,Automatic,Third Owner
+Maruti Fortuner,2006,4111147,25641,Petrol,Dealer,Automatic,Third Owner
+Mercedes City,2015,1307810,89534,Petrol,Trustmark Dealer,Automatic,First Owner
+Ford Swift,2014,1012283,16305,Petrol,Trustmark Dealer,Manual,First Owner
+BMW C-Class,2018,3114863,28782,Petrol,Trustmark Dealer,Manual,Second Owner
+Mercedes C-Class,2011,2021367,88257,CNG,Individual,Manual,Third Owner
+Honda X5,2006,3572863,87963,Petrol,Individual,Manual,Third Owner
+Mahindra C-Class,2013,3099033,131987,Diesel,Dealer,Manual,Third Owner
+Honda Fortuner,2020,4732669,134591,LPG,Dealer,Manual,Fourth & Above Owner
+Ford Fortuner,2017,1778315,77766,LPG,Dealer,Automatic,Second Owner
+BMW X5,2013,1549590,16511,Petrol,Dealer,Automatic,First Owner
+Jaguar Fortuner,2008,3704438,124816,Petrol,Individual,Automatic,Fourth & Above Owner
+Ford City,2014,4780197,14765,Petrol,Dealer,Manual,Fourth & Above Owner
+Maruti X5,2016,3245529,33929,CNG,Dealer,Automatic,Fourth & Above Owner
+Toyota City,2021,2425541,121576,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Ford Swift,2018,3011139,81088,Petrol,Dealer,Manual,Second Owner
+Mahindra City,2018,1669793,87525,Diesel,Dealer,Automatic,Third Owner
+Mahindra Swift,2006,4690512,23780,Petrol,Dealer,Manual,First Owner
+Ford Swift,2015,3097706,16589,LPG,Individual,Automatic,First Owner
+Mercedes City,2020,3401473,103664,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+Toyota X5,2023,1298657,114188,LPG,Dealer,Manual,Fourth & Above Owner
+Maruti Fortuner,2010,1126215,103326,Petrol,Dealer,Automatic,Second Owner
+Ford Fortuner,2023,3233449,50953,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Mercedes Swift,2009,1649991,75785,Petrol,Dealer,Automatic,First Owner
+Mahindra Swift,2008,2711910,29309,Diesel,Individual,Automatic,First Owner
+Mahindra X5,2019,624528,64195,Diesel,Dealer,Manual,Third Owner
+BMW C-Class,2008,2735610,35901,Petrol,Individual,Automatic,Third Owner
+Ford City,2014,2915223,35464,Diesel,Individual,Automatic,First Owner
+Toyota Swift,2007,812181,26260,CNG,Dealer,Automatic,First Owner
+Hyundai Fortuner,2009,3845525,134997,Petrol,Trustmark Dealer,Manual,Second Owner
+Toyota X5,2010,1850824,45440,Petrol,Individual,Automatic,Second Owner
+Mahindra City,2012,339227,105082,Diesel,Trustmark Dealer,Manual,First Owner
+Mahindra X5,2011,1973055,115583,Diesel,Dealer,Automatic,Fourth & Above Owner
+Honda City,2014,892137,66683,Petrol,Individual,Automatic,Third Owner
+Mahindra City,2010,481854,134206,CNG,Dealer,Automatic,First Owner
+Maruti Swift,2018,860327,143059,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Audi X5,2008,1857153,88484,Diesel,Dealer,Manual,First Owner
+Ford X5,2017,4545398,78309,LPG,Dealer,Manual,Third Owner
+Toyota Fortuner,2021,1685255,55927,CNG,Individual,Manual,Third Owner
+Audi Fortuner,2011,4356004,52946,CNG,Dealer,Manual,Second Owner
+Mercedes Swift,2008,2006684,136503,Petrol,Dealer,Manual,Second Owner
+Hyundai Swift,2018,2009858,63592,CNG,Dealer,Automatic,Second Owner
+Maruti C-Class,2007,679083,148419,Petrol,Individual,Manual,Second Owner
+Tata Fortuner,2009,1594316,43776,LPG,Trustmark Dealer,Automatic,Third Owner
+Toyota City,2020,2101740,144855,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Audi X5,2008,4462627,65798,Diesel,Dealer,Manual,Fourth & Above Owner
+Hyundai Swift,2006,4784946,145370,LPG,Individual,Manual,Fourth & Above Owner
+Honda X5,2022,2495936,80204,Petrol,Dealer,Automatic,First Owner
+Maruti X5,2023,4501400,96207,LPG,Trustmark Dealer,Manual,Second Owner
+Maruti C-Class,2023,4841094,110356,Petrol,Individual,Manual,Second Owner
+Honda Fortuner,2021,2907184,70652,LPG,Trustmark Dealer,Automatic,Third Owner
+Tata Swift,2018,3112066,139572,Petrol,Trustmark Dealer,Automatic,Third Owner
+Ford X5,2023,3970771,30922,CNG,Individual,Automatic,First Owner
+Honda Swift,2017,1740724,86996,Diesel,Individual,Automatic,First Owner
+Maruti City,2016,2165730,40266,Petrol,Dealer,Manual,Fourth & Above Owner
+Maruti C-Class,2010,4762530,12866,LPG,Dealer,Automatic,Third Owner
+Audi City,2008,4520614,122669,Petrol,Trustmark Dealer,Manual,Second Owner
+Mahindra Swift,2023,4283290,15898,Petrol,Individual,Manual,Fourth & Above Owner
+Tata Swift,2020,875673,28395,Petrol,Individual,Automatic,Second Owner
+Hyundai Fortuner,2017,4262224,14006,LPG,Dealer,Manual,Fourth & Above Owner
+Honda X5,2008,2088529,20956,Diesel,Trustmark Dealer,Automatic,Second Owner
+Hyundai X5,2021,1294316,147150,CNG,Trustmark Dealer,Manual,First Owner
+Honda City,2005,4500915,105676,Diesel,Dealer,Automatic,Fourth & Above Owner
+Mercedes C-Class,2022,1836675,131724,Petrol,Individual,Automatic,Second Owner
+Maruti X5,2021,906673,72901,LPG,Dealer,Automatic,Second Owner
+Mahindra Fortuner,2019,1001849,117227,Diesel,Dealer,Automatic,Third Owner
+Audi City,2015,1928665,127192,Petrol,Dealer,Automatic,Fourth & Above Owner
+Mahindra City,2017,1361068,41417,CNG,Dealer,Automatic,Second Owner
+Mahindra Fortuner,2005,1235891,98020,CNG,Individual,Manual,Third Owner
+Mahindra C-Class,2021,953494,93639,CNG,Dealer,Manual,Second Owner
+Hyundai Fortuner,2010,623177,104881,Petrol,Individual,Manual,Fourth & Above Owner
+Honda C-Class,2008,842762,142659,LPG,Dealer,Automatic,First Owner
+Jaguar Fortuner,2020,967876,131688,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Mercedes Fortuner,2019,3904697,125584,CNG,Individual,Automatic,Fourth & Above Owner
+Toyota Swift,2019,1406184,96567,Petrol,Trustmark Dealer,Manual,Second Owner
+Mahindra City,2010,1960511,85886,Petrol,Dealer,Manual,Second Owner
+Ford Fortuner,2019,4784074,39432,Diesel,Dealer,Automatic,Fourth & Above Owner
+Hyundai Fortuner,2018,3741815,82373,CNG,Dealer,Manual,Third Owner
+Tata X5,2015,246002,30884,Petrol,Individual,Manual,Third Owner
+Audi City,2011,4810146,15454,Diesel,Trustmark Dealer,Manual,Third Owner
+Toyota X5,2013,915339,84960,LPG,Individual,Automatic,Second Owner
+Jaguar City,2020,4339289,112421,LPG,Individual,Manual,Second Owner
+Ford X5,2009,1984006,53618,LPG,Dealer,Automatic,Fourth & Above Owner
+Jaguar Fortuner,2014,828889,57111,CNG,Trustmark Dealer,Manual,First Owner
+Toyota Fortuner,2022,2567108,130592,Diesel,Dealer,Manual,Second Owner
+Mahindra Swift,2007,4789699,69993,Diesel,Individual,Manual,Fourth & Above Owner
+Ford X5,2017,4044886,138652,Petrol,Dealer,Manual,Fourth & Above Owner
+Jaguar C-Class,2015,1125779,149920,Petrol,Trustmark Dealer,Automatic,First Owner
+Audi Swift,2021,2729832,88672,Petrol,Dealer,Manual,Third Owner
+Honda X5,2017,3519151,76125,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti X5,2010,425391,127509,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+Honda Swift,2021,391387,71602,Diesel,Dealer,Manual,Fourth & Above Owner
+Toyota Fortuner,2017,3832632,52222,Diesel,Individual,Manual,Third Owner
+Hyundai X5,2023,4808474,59223,LPG,Dealer,Automatic,Third Owner
+Maruti Fortuner,2023,2984067,75333,Petrol,Individual,Automatic,First Owner
+Mercedes Swift,2014,1574073,132650,LPG,Individual,Manual,Second Owner
+Audi Fortuner,2007,2735394,59420,CNG,Dealer,Manual,Third Owner
+Mercedes City,2018,4757220,85504,CNG,Individual,Manual,Second Owner
+Ford C-Class,2023,4572352,12462,CNG,Individual,Manual,Second Owner
+Maruti X5,2009,1624663,19460,Diesel,Dealer,Manual,Third Owner
+Mercedes C-Class,2009,2669146,109319,Diesel,Dealer,Automatic,Fourth & Above Owner
+Mercedes Fortuner,2021,3491070,139593,Diesel,Dealer,Manual,First Owner
+Jaguar X5,2014,886268,132672,Petrol,Individual,Manual,Second Owner
+Honda Fortuner,2009,1001955,82920,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Jaguar City,2008,1311009,32553,Diesel,Individual,Manual,Third Owner
+Maruti Swift,2010,2213148,54036,LPG,Trustmark Dealer,Manual,Second Owner
+Maruti X5,2008,4667223,80021,LPG,Dealer,Automatic,Second Owner
+Toyota City,2011,1719593,117205,LPG,Trustmark Dealer,Manual,Second Owner
+Jaguar City,2011,2644291,98209,Petrol,Dealer,Automatic,Fourth & Above Owner
+BMW X5,2022,347745,85139,Petrol,Dealer,Manual,Fourth & Above Owner
+Tata Fortuner,2007,3992824,15368,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda City,2005,1930992,145693,CNG,Dealer,Manual,Second Owner
+Maruti C-Class,2008,337686,68829,LPG,Trustmark Dealer,Automatic,Second Owner
+Toyota City,2010,2267636,139036,CNG,Dealer,Automatic,First Owner
+Jaguar Fortuner,2013,4351923,24719,LPG,Individual,Automatic,First Owner
+Honda Fortuner,2018,2183044,39227,Petrol,Individual,Automatic,Fourth & Above Owner
+Jaguar C-Class,2016,4124221,119430,Petrol,Dealer,Manual,Fourth & Above Owner
+Mercedes City,2008,3514344,148638,Petrol,Dealer,Automatic,Third Owner
+Toyota Fortuner,2016,249976,22306,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Honda X5,2014,2722620,63822,LPG,Individual,Automatic,First Owner
+Mahindra Swift,2011,2563128,34042,Petrol,Trustmark Dealer,Manual,First Owner
+Ford Swift,2007,3567611,99424,LPG,Dealer,Manual,First Owner
+Ford Swift,2018,4605813,28019,CNG,Dealer,Automatic,Second Owner
+Honda City,2014,3842693,85426,CNG,Trustmark Dealer,Automatic,Second Owner
+Jaguar C-Class,2020,2227320,50863,Petrol,Dealer,Manual,Fourth & Above Owner
+Toyota Fortuner,2020,2012105,121023,LPG,Individual,Automatic,Third Owner
+Tata X5,2014,2147238,56999,Petrol,Trustmark Dealer,Automatic,Third Owner
+Ford X5,2017,1595796,72780,CNG,Individual,Automatic,Third Owner
+Toyota City,2010,3761262,32908,Petrol,Individual,Automatic,Second Owner
+Ford Swift,2016,408859,136278,LPG,Individual,Manual,First Owner
+Mercedes City,2013,4227902,123002,CNG,Trustmark Dealer,Manual,First Owner
+Jaguar C-Class,2017,245475,110706,Diesel,Dealer,Manual,Second Owner
+Mercedes C-Class,2008,3503364,132019,CNG,Individual,Automatic,Third Owner
+Ford Fortuner,2015,3439254,119708,Diesel,Individual,Automatic,Third Owner
+Mahindra Fortuner,2022,1299577,19343,Petrol,Individual,Manual,Fourth & Above Owner
+Mahindra C-Class,2015,1044081,86173,Petrol,Dealer,Manual,Fourth & Above Owner
+Mercedes C-Class,2008,4823037,110260,LPG,Dealer,Manual,Third Owner
+Mahindra C-Class,2022,3895727,79443,Diesel,Trustmark Dealer,Automatic,Second Owner
+Ford City,2005,1802970,67530,Petrol,Dealer,Manual,Third Owner
+Honda C-Class,2011,1731064,145899,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Mercedes X5,2010,4611887,106143,Petrol,Trustmark Dealer,Automatic,Third Owner
+Tata Swift,2019,427189,124527,CNG,Trustmark Dealer,Manual,Second Owner
+Tata C-Class,2022,2276198,146385,Petrol,Trustmark Dealer,Manual,First Owner
+Hyundai Swift,2015,1668919,121362,LPG,Trustmark Dealer,Automatic,Second Owner
+Jaguar City,2019,3481941,38807,CNG,Individual,Manual,Second Owner
+Mahindra Swift,2020,2850324,69550,LPG,Dealer,Manual,Fourth & Above Owner
+Mahindra City,2011,3610580,13558,CNG,Individual,Automatic,Second Owner
+Maruti X5,2014,3885104,60113,Diesel,Trustmark Dealer,Automatic,Second Owner
+BMW City,2016,1620858,62999,LPG,Dealer,Automatic,Fourth & Above Owner
+Mercedes City,2018,1948982,68219,Petrol,Individual,Automatic,Fourth & Above Owner
+Audi Fortuner,2009,1645065,63218,Diesel,Individual,Automatic,First Owner
+Mahindra C-Class,2022,278077,29229,Petrol,Trustmark Dealer,Manual,Third Owner
+Jaguar C-Class,2009,4709322,85209,CNG,Individual,Automatic,Second Owner
+Hyundai X5,2007,1841232,37877,CNG,Individual,Automatic,Fourth & Above Owner
+Tata X5,2009,4645818,107137,Petrol,Individual,Automatic,First Owner
+Mahindra C-Class,2021,4295077,48084,Petrol,Individual,Manual,Third Owner
+Hyundai Fortuner,2023,984192,91780,Diesel,Individual,Automatic,Fourth & Above Owner
+Ford C-Class,2023,4830232,47034,Petrol,Trustmark Dealer,Automatic,Third Owner
+Ford Fortuner,2016,1120114,65468,LPG,Trustmark Dealer,Automatic,Third Owner
+BMW X5,2013,801891,20589,LPG,Individual,Manual,Second Owner
+Honda Swift,2005,3729921,67221,Petrol,Trustmark Dealer,Automatic,Second Owner
+Audi X5,2022,2382926,11657,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti X5,2008,2685670,108300,Petrol,Dealer,Automatic,Third Owner
+BMW City,2014,3544250,127229,Diesel,Individual,Manual,Fourth & Above Owner
+Toyota City,2011,3566085,49531,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Maruti City,2005,4806976,62227,LPG,Trustmark Dealer,Manual,Third Owner
+Mercedes City,2021,4223278,13164,Petrol,Individual,Manual,Fourth & Above Owner
+Jaguar Fortuner,2006,737977,103078,LPG,Dealer,Automatic,Third Owner
+Toyota C-Class,2015,2199014,51247,CNG,Individual,Automatic,Third Owner
+Toyota Swift,2013,3903292,60599,Diesel,Dealer,Manual,Third Owner
+BMW X5,2011,1758141,145624,Diesel,Individual,Manual,Third Owner
+Honda Fortuner,2021,3868280,78207,LPG,Individual,Automatic,First Owner
+BMW Swift,2021,2923408,82055,LPG,Individual,Automatic,Third Owner
+Mercedes Fortuner,2006,2048058,112266,CNG,Individual,Manual,Second Owner
+Tata Fortuner,2010,4984808,88270,CNG,Dealer,Manual,Second Owner
+Mahindra X5,2018,2359173,121426,LPG,Dealer,Manual,Second Owner
+Mahindra C-Class,2010,4854419,144794,LPG,Trustmark Dealer,Manual,Third Owner
+Honda City,2006,242291,80442,CNG,Individual,Automatic,Second Owner
+Mercedes C-Class,2005,4822580,105632,Petrol,Dealer,Manual,First Owner
+Honda X5,2014,4789058,31438,CNG,Dealer,Manual,Fourth & Above Owner
+Hyundai X5,2009,4697968,68819,Petrol,Dealer,Automatic,Third Owner
+Mahindra X5,2006,2322827,53856,Diesel,Individual,Automatic,Second Owner
+Toyota Swift,2020,2268671,51938,Diesel,Trustmark Dealer,Automatic,First Owner
+Audi C-Class,2006,908672,69807,CNG,Dealer,Automatic,Fourth & Above Owner
+Jaguar C-Class,2014,537369,59877,Petrol,Individual,Automatic,First Owner
+Mercedes Fortuner,2006,4176974,53461,CNG,Dealer,Manual,Second Owner
+Maruti Fortuner,2020,3692963,103474,CNG,Dealer,Manual,First Owner
+Honda Fortuner,2020,4707167,93136,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Jaguar X5,2023,2427039,30435,CNG,Dealer,Automatic,Second Owner
+Maruti C-Class,2011,496063,94726,Diesel,Dealer,Manual,Fourth & Above Owner
+Jaguar X5,2016,1583875,64786,LPG,Individual,Automatic,First Owner
+Audi Swift,2019,2076336,23704,LPG,Individual,Manual,Third Owner
+Maruti Fortuner,2012,4156778,66635,CNG,Trustmark Dealer,Manual,Third Owner
+BMW X5,2010,4953267,143195,Petrol,Individual,Automatic,Third Owner
+Ford X5,2014,3087757,100710,Petrol,Individual,Automatic,Third Owner
+BMW Swift,2007,2668665,72993,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Mahindra City,2023,3109984,122752,Petrol,Dealer,Manual,Third Owner
+Ford C-Class,2021,892924,142886,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+BMW City,2011,2770115,88537,Diesel,Individual,Manual,Second Owner
+Ford Fortuner,2008,1861655,60258,CNG,Trustmark Dealer,Manual,Third Owner
+Tata X5,2018,4872412,95166,LPG,Dealer,Automatic,Fourth & Above Owner
+Ford Swift,2019,3300498,123710,Diesel,Trustmark Dealer,Automatic,Third Owner
+Toyota Swift,2012,4989125,45699,CNG,Individual,Automatic,Third Owner
+Honda C-Class,2019,4870432,56335,Diesel,Individual,Automatic,Third Owner
+Honda City,2018,1223920,56806,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Toyota C-Class,2013,4011666,87853,Diesel,Dealer,Manual,First Owner
+Jaguar X5,2012,4019712,45739,CNG,Trustmark Dealer,Automatic,Third Owner
+Hyundai C-Class,2021,1233668,44785,Diesel,Dealer,Manual,Third Owner
+Jaguar Swift,2006,2673199,95016,CNG,Dealer,Automatic,Second Owner
+Maruti Swift,2007,497675,142681,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti Fortuner,2012,908175,76253,LPG,Dealer,Manual,Fourth & Above Owner
+Ford Fortuner,2016,3875002,101128,LPG,Individual,Manual,Second Owner
+BMW X5,2005,2067306,137581,Petrol,Trustmark Dealer,Automatic,Third Owner
+BMW City,2014,463625,120966,CNG,Dealer,Automatic,Second Owner
+Honda C-Class,2007,1042840,147854,Diesel,Individual,Automatic,Second Owner
+Mercedes X5,2010,4594643,109352,CNG,Trustmark Dealer,Automatic,Third Owner
+Jaguar Fortuner,2011,325355,87154,LPG,Individual,Manual,First Owner
+Tata C-Class,2022,4422102,149379,CNG,Individual,Manual,First Owner
+Mahindra Fortuner,2015,815937,118297,Diesel,Individual,Manual,Second Owner
+Audi C-Class,2023,1575607,48346,CNG,Dealer,Manual,Third Owner
+BMW City,2009,219477,122138,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Audi X5,2023,3756210,60772,LPG,Trustmark Dealer,Manual,Second Owner
+Ford C-Class,2015,2687111,50149,LPG,Dealer,Manual,Fourth & Above Owner
+Audi Swift,2016,2209606,96700,LPG,Trustmark Dealer,Manual,Second Owner
+Mahindra Swift,2014,1759757,106758,Petrol,Individual,Automatic,Second Owner
+Toyota C-Class,2012,4799409,138447,LPG,Trustmark Dealer,Automatic,Third Owner
+Mahindra C-Class,2013,3632207,15695,CNG,Dealer,Automatic,Third Owner
+Audi C-Class,2008,4667890,49169,Petrol,Individual,Manual,Fourth & Above Owner
+Mahindra Swift,2009,2081297,57947,LPG,Dealer,Automatic,Fourth & Above Owner
+Hyundai Swift,2012,1023759,55865,CNG,Individual,Manual,First Owner
+Ford C-Class,2013,3230855,114501,CNG,Individual,Manual,Third Owner
+Jaguar Fortuner,2019,4729275,70410,CNG,Trustmark Dealer,Manual,Second Owner
+Toyota Fortuner,2019,331184,113754,Diesel,Individual,Automatic,Second Owner
+Tata City,2020,1335627,100895,Petrol,Dealer,Automatic,First Owner
+BMW X5,2018,2447805,60705,CNG,Trustmark Dealer,Manual,Third Owner
+Maruti Fortuner,2012,445300,125700,Diesel,Dealer,Manual,Second Owner
+Jaguar Swift,2022,784010,83914,LPG,Individual,Automatic,First Owner
+Maruti Fortuner,2014,292036,11881,CNG,Dealer,Automatic,First Owner
+Ford City,2010,1053392,57365,Diesel,Dealer,Automatic,Second Owner
+Toyota City,2016,481696,89211,CNG,Individual,Manual,Second Owner
+Honda X5,2006,3862340,51198,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+BMW Fortuner,2011,1390456,110649,Petrol,Dealer,Manual,Third Owner
+Hyundai Swift,2020,4629723,146949,LPG,Individual,Automatic,Fourth & Above Owner
+Honda Swift,2007,1190029,49553,CNG,Trustmark Dealer,Automatic,First Owner
+Ford C-Class,2017,354692,145994,Diesel,Trustmark Dealer,Automatic,Second Owner
+Jaguar Swift,2007,4657335,132778,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Hyundai X5,2022,2591098,127018,CNG,Dealer,Manual,First Owner
+Mahindra X5,2015,1857888,145758,LPG,Dealer,Automatic,Third Owner
+Audi Swift,2012,2785917,42766,Diesel,Dealer,Manual,Second Owner
+Hyundai Swift,2010,2024964,42006,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Tata C-Class,2005,1588509,41422,LPG,Dealer,Manual,Third Owner
+Ford Swift,2005,3954542,126590,LPG,Individual,Automatic,Fourth & Above Owner
+Mercedes C-Class,2012,2698214,22205,CNG,Dealer,Manual,First Owner
+Audi C-Class,2009,4878083,126477,Diesel,Dealer,Manual,Third Owner
+Maruti Swift,2020,4964812,38202,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+BMW City,2015,4773574,71692,CNG,Dealer,Automatic,Third Owner
+Maruti City,2009,4308502,30855,Petrol,Individual,Automatic,First Owner
+Hyundai C-Class,2008,1768146,35095,Petrol,Trustmark Dealer,Automatic,Third Owner
+Maruti Swift,2010,683455,59241,CNG,Individual,Automatic,Fourth & Above Owner
+Tata City,2018,4236405,113119,CNG,Trustmark Dealer,Manual,First Owner
+Ford Swift,2023,747219,62003,Diesel,Trustmark Dealer,Automatic,Second Owner
+Mahindra Swift,2013,2386268,104837,Diesel,Dealer,Automatic,Fourth & Above Owner
+Jaguar Swift,2016,4645975,104283,LPG,Individual,Automatic,Fourth & Above Owner
+BMW Fortuner,2015,4187793,133805,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Swift,2018,1824777,103846,Diesel,Dealer,Automatic,First Owner
+Tata Fortuner,2020,3071656,32927,LPG,Trustmark Dealer,Automatic,Second Owner
+Maruti C-Class,2005,4908569,130589,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti City,2017,4055933,125657,CNG,Trustmark Dealer,Manual,First Owner
+Hyundai City,2017,2526729,76630,Diesel,Trustmark Dealer,Manual,Second Owner
+Jaguar City,2006,4107129,114428,Petrol,Trustmark Dealer,Automatic,Second Owner
+Honda City,2008,295556,132035,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti City,2010,2097883,136244,Petrol,Dealer,Automatic,Fourth & Above Owner
+Ford City,2009,3669992,79518,CNG,Trustmark Dealer,Manual,Third Owner
+Mercedes City,2007,1755537,91326,Petrol,Individual,Automatic,Third Owner
+BMW C-Class,2005,852755,130243,Diesel,Dealer,Manual,Second Owner
+Maruti Swift,2008,3866344,22748,LPG,Individual,Automatic,Third Owner
+Ford X5,2006,3726362,144164,CNG,Trustmark Dealer,Automatic,Third Owner
+Ford Fortuner,2009,943088,63311,Diesel,Individual,Manual,First Owner
+BMW X5,2007,2795834,32692,CNG,Trustmark Dealer,Automatic,Second Owner
+Honda X5,2013,259778,134954,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Ford Swift,2010,1294409,140035,Diesel,Dealer,Automatic,Second Owner
+Mercedes Swift,2022,2853528,89507,Diesel,Dealer,Automatic,First Owner
+Ford Swift,2010,4304399,90152,LPG,Trustmark Dealer,Manual,Third Owner
+Ford City,2023,1713083,14926,CNG,Dealer,Automatic,Fourth & Above Owner
+Ford C-Class,2016,3542103,13969,CNG,Individual,Manual,Second Owner
+Mahindra City,2015,2373513,45733,Diesel,Dealer,Manual,Third Owner
+Mahindra C-Class,2006,1598949,79855,Petrol,Dealer,Manual,Second Owner
+Honda C-Class,2019,722154,51743,Diesel,Individual,Manual,Fourth & Above Owner
+Maruti X5,2016,3668582,140193,CNG,Dealer,Automatic,Second Owner
+Ford X5,2016,1211930,117445,Diesel,Trustmark Dealer,Automatic,Second Owner
+Jaguar C-Class,2013,1279525,30323,LPG,Individual,Manual,Second Owner
+Maruti C-Class,2006,1985818,26428,Petrol,Trustmark Dealer,Automatic,Third Owner
+Honda City,2007,3151720,44578,Diesel,Individual,Manual,Fourth & Above Owner
+Toyota City,2016,1360117,96486,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti X5,2020,2282963,74140,CNG,Trustmark Dealer,Automatic,Third Owner
+Maruti Swift,2005,4456146,117325,Diesel,Dealer,Automatic,Third Owner
+Audi C-Class,2007,2785171,93829,CNG,Trustmark Dealer,Manual,Third Owner
+Hyundai City,2006,1481506,16364,LPG,Dealer,Manual,First Owner
+Audi X5,2013,489134,138867,CNG,Individual,Automatic,Second Owner
+Mercedes City,2023,2968705,141763,LPG,Trustmark Dealer,Manual,Second Owner
+Mahindra C-Class,2019,4524660,105598,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Mahindra C-Class,2022,3066069,67062,LPG,Individual,Automatic,Second Owner
+Hyundai Fortuner,2015,937090,98302,Diesel,Individual,Manual,First Owner
+BMW Swift,2020,1114565,73928,CNG,Trustmark Dealer,Automatic,Third Owner
+BMW Fortuner,2021,4035598,51347,CNG,Individual,Automatic,Fourth & Above Owner
+Honda X5,2009,1252425,13121,Petrol,Dealer,Automatic,Fourth & Above Owner
+Tata City,2016,977567,93793,Petrol,Individual,Manual,Second Owner
+Hyundai X5,2015,2916207,38164,Petrol,Individual,Automatic,Fourth & Above Owner
+Maruti C-Class,2019,1949736,35491,Petrol,Trustmark Dealer,Automatic,Third Owner
+BMW Fortuner,2007,1770234,69222,CNG,Dealer,Manual,Fourth & Above Owner
+Ford Fortuner,2005,251707,13748,LPG,Individual,Manual,Third Owner
+Tata Fortuner,2020,480833,36553,LPG,Dealer,Manual,First Owner
+Jaguar X5,2006,3899100,126547,Diesel,Dealer,Manual,First Owner
+Maruti C-Class,2006,1288963,70380,LPG,Dealer,Automatic,Third Owner
+Mercedes City,2007,2077145,54331,CNG,Trustmark Dealer,Manual,Second Owner
+Ford City,2012,2483785,130617,CNG,Individual,Manual,Fourth & Above Owner
+Ford X5,2019,4194420,49560,CNG,Trustmark Dealer,Manual,Second Owner
+Hyundai Fortuner,2011,1034874,63865,Diesel,Individual,Manual,Fourth & Above Owner
+Tata Swift,2010,1089493,85910,Petrol,Individual,Automatic,First Owner
+Honda X5,2013,978799,145747,LPG,Trustmark Dealer,Manual,First Owner
+Mercedes X5,2005,3733716,87986,CNG,Dealer,Automatic,First Owner
+BMW C-Class,2012,3707447,20068,CNG,Dealer,Manual,Fourth & Above Owner
+Hyundai City,2007,1079459,64460,Petrol,Individual,Automatic,First Owner
+BMW X5,2008,2381533,110766,CNG,Trustmark Dealer,Automatic,First Owner
+Hyundai X5,2019,2022744,56418,LPG,Dealer,Manual,First Owner
+Hyundai Fortuner,2010,2491136,36206,Diesel,Dealer,Automatic,First Owner
+Hyundai Fortuner,2019,3841644,138180,CNG,Individual,Manual,Second Owner
+Tata Swift,2007,4043139,10287,LPG,Individual,Automatic,First Owner
+Honda C-Class,2018,3293510,32337,CNG,Trustmark Dealer,Automatic,First Owner
+Hyundai Swift,2018,4385224,142233,Petrol,Individual,Automatic,Second Owner
+Toyota Fortuner,2008,4647395,110667,CNG,Dealer,Manual,Second Owner
+Jaguar City,2016,1052050,100071,CNG,Dealer,Automatic,Fourth & Above Owner
+BMW Fortuner,2021,2561216,108064,Diesel,Dealer,Manual,Third Owner
+Maruti C-Class,2011,2767587,116511,Petrol,Dealer,Automatic,First Owner
+Audi Fortuner,2013,4995464,13178,Petrol,Trustmark Dealer,Automatic,First Owner
+Mercedes C-Class,2007,464237,41831,Diesel,Trustmark Dealer,Automatic,First Owner
+Mahindra C-Class,2017,4669353,143248,CNG,Individual,Automatic,Fourth & Above Owner
+Honda C-Class,2019,2714719,113306,LPG,Individual,Automatic,First Owner
+Maruti C-Class,2022,2108911,122025,Petrol,Individual,Automatic,Third Owner
+Ford C-Class,2023,4202981,100417,Petrol,Trustmark Dealer,Manual,Second Owner
+Toyota City,2005,1619920,21984,CNG,Dealer,Manual,Fourth & Above Owner
+Mahindra Swift,2010,2379441,99312,CNG,Individual,Manual,Second Owner
+Audi X5,2006,2937946,93291,Petrol,Dealer,Automatic,First Owner
+Maruti Swift,2018,3948529,17135,CNG,Individual,Manual,First Owner
+Mahindra C-Class,2010,3758818,10320,LPG,Individual,Automatic,First Owner
+Maruti City,2018,1649466,98774,Petrol,Individual,Manual,Third Owner
+Toyota Fortuner,2008,1561236,108071,LPG,Individual,Manual,Third Owner
+Audi City,2012,2288062,119863,LPG,Individual,Automatic,Fourth & Above Owner
+Ford C-Class,2007,2556632,51777,CNG,Dealer,Automatic,Second Owner
+Hyundai City,2023,2034907,56250,LPG,Individual,Manual,First Owner
+BMW City,2018,4061774,83034,CNG,Dealer,Manual,First Owner
+Ford C-Class,2021,3833795,114940,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai City,2012,3677084,50130,CNG,Individual,Manual,First Owner
+Tata X5,2018,4527802,143609,LPG,Dealer,Automatic,Third Owner
+Tata X5,2010,3599752,25216,Diesel,Trustmark Dealer,Manual,Second Owner
+Tata City,2020,4000986,94149,CNG,Trustmark Dealer,Automatic,Second Owner
+Honda Fortuner,2023,923858,13009,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Jaguar C-Class,2018,3018907,99904,Petrol,Dealer,Manual,Third Owner
+Mercedes X5,2023,244816,25029,Petrol,Individual,Automatic,First Owner
+Mercedes Fortuner,2007,204138,112171,CNG,Individual,Manual,Second Owner
+Tata City,2014,4363960,124456,CNG,Dealer,Automatic,Second Owner
+BMW Fortuner,2023,3436904,72559,Petrol,Individual,Automatic,Third Owner
+Audi Swift,2013,4064044,74892,LPG,Dealer,Manual,Fourth & Above Owner
+Toyota X5,2017,421552,80409,LPG,Individual,Automatic,Fourth & Above Owner
+Audi City,2011,243764,149707,LPG,Trustmark Dealer,Automatic,First Owner
+Toyota C-Class,2018,2420182,43065,CNG,Individual,Manual,Fourth & Above Owner
+Audi City,2013,2097951,130544,Diesel,Dealer,Automatic,Second Owner
+Jaguar C-Class,2023,516462,117340,Diesel,Dealer,Automatic,Fourth & Above Owner
+Honda City,2019,1089855,43783,Diesel,Trustmark Dealer,Manual,First Owner
+Honda Fortuner,2018,1614718,44152,Diesel,Dealer,Manual,Second Owner
+Tata Fortuner,2010,2357280,68741,Diesel,Individual,Automatic,Fourth & Above Owner
+Hyundai Fortuner,2008,1008301,117049,CNG,Individual,Automatic,Fourth & Above Owner
+Mahindra Swift,2012,4380266,39092,CNG,Trustmark Dealer,Automatic,Third Owner
+Honda C-Class,2021,4546657,96483,Diesel,Dealer,Manual,First Owner
+Honda Fortuner,2013,312935,131585,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Ford Swift,2005,4251889,69754,CNG,Individual,Automatic,Third Owner
+Ford C-Class,2018,1538306,97592,Diesel,Trustmark Dealer,Automatic,Second Owner
+Hyundai City,2015,2350205,104543,LPG,Dealer,Automatic,Third Owner
+Mahindra Swift,2007,4480650,53169,CNG,Trustmark Dealer,Automatic,Third Owner
+BMW X5,2013,4723535,64745,LPG,Dealer,Automatic,Fourth & Above Owner
+Ford Swift,2018,4800145,120168,CNG,Dealer,Manual,Fourth & Above Owner
+BMW Swift,2013,4952989,123985,CNG,Individual,Manual,Fourth & Above Owner
+Maruti C-Class,2008,1569391,15543,Diesel,Individual,Automatic,Third Owner
+Ford City,2008,4510518,31067,CNG,Individual,Automatic,Second Owner
+Jaguar X5,2012,2782153,61033,Petrol,Dealer,Manual,First Owner
+Mahindra Fortuner,2006,1053329,55256,Petrol,Trustmark Dealer,Manual,Third Owner
+Hyundai Fortuner,2013,1930085,96803,Diesel,Dealer,Manual,Fourth & Above Owner
+Maruti Swift,2018,2226110,128843,LPG,Individual,Automatic,First Owner
+Mahindra C-Class,2013,3284562,38992,LPG,Individual,Automatic,Second Owner
+Tata C-Class,2020,4795130,58803,LPG,Trustmark Dealer,Automatic,First Owner
+Jaguar Fortuner,2021,636542,119975,Petrol,Individual,Automatic,Fourth & Above Owner
+Mahindra X5,2020,4766701,36270,LPG,Individual,Manual,Third Owner
+Jaguar City,2016,4339394,146269,LPG,Individual,Manual,Third Owner
+Jaguar X5,2007,3180672,17452,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+BMW City,2015,2262087,51486,LPG,Dealer,Manual,Third Owner
+Audi Fortuner,2018,626674,24859,Petrol,Individual,Automatic,Fourth & Above Owner
+Tata City,2022,282409,42083,Petrol,Trustmark Dealer,Automatic,Third Owner
+Maruti C-Class,2009,3828104,77708,Petrol,Individual,Manual,Third Owner
+Mahindra Swift,2020,2195141,121462,Diesel,Trustmark Dealer,Manual,Third Owner
+Toyota Swift,2009,4025258,103076,Diesel,Individual,Manual,Second Owner
+Maruti Fortuner,2007,3699701,29053,CNG,Trustmark Dealer,Manual,Second Owner
+Audi C-Class,2016,2127716,99745,LPG,Individual,Manual,Fourth & Above Owner
+Maruti X5,2005,2121672,79517,Diesel,Dealer,Automatic,Second Owner
+Honda C-Class,2013,1392503,146319,Petrol,Individual,Automatic,Fourth & Above Owner
+Toyota Swift,2013,1333754,147207,Petrol,Trustmark Dealer,Manual,First Owner
+Audi Swift,2008,3103609,146645,Diesel,Individual,Manual,First Owner
+BMW C-Class,2007,1646250,89267,Diesel,Dealer,Manual,Second Owner
+Mahindra C-Class,2021,1843707,148261,Diesel,Individual,Automatic,First Owner
+Mercedes Swift,2006,4000315,90077,CNG,Trustmark Dealer,Automatic,First Owner
+Audi X5,2005,3351396,86623,Petrol,Trustmark Dealer,Automatic,Third Owner
+Hyundai Fortuner,2012,3568270,141004,CNG,Dealer,Manual,Third Owner
+Mahindra Fortuner,2017,2452641,63687,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Tata C-Class,2019,544126,78312,LPG,Individual,Manual,First Owner
+Audi Fortuner,2012,2605514,117615,Petrol,Individual,Automatic,Fourth & Above Owner
+Honda Swift,2016,2042360,140976,Petrol,Individual,Automatic,Fourth & Above Owner
+Mercedes Swift,2016,1337411,37564,Diesel,Trustmark Dealer,Automatic,First Owner
+Honda C-Class,2018,1870357,38835,Diesel,Individual,Manual,Second Owner
+Mercedes C-Class,2019,3112511,17697,LPG,Individual,Manual,First Owner
+Tata C-Class,2019,3530922,90165,CNG,Individual,Automatic,Third Owner
+Hyundai X5,2013,3899509,67823,Diesel,Dealer,Manual,First Owner
+Mahindra Fortuner,2023,4355479,19615,Diesel,Trustmark Dealer,Manual,Second Owner
+BMW C-Class,2012,4688155,146132,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda City,2023,3502198,140499,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda City,2010,497986,86436,Diesel,Dealer,Manual,Third Owner
+Jaguar Swift,2023,3966001,130562,Petrol,Trustmark Dealer,Manual,Third Owner
+Mercedes Fortuner,2008,2665912,81117,LPG,Dealer,Manual,Third Owner
+Ford C-Class,2011,2222784,44782,Diesel,Dealer,Automatic,Fourth & Above Owner
+Mahindra City,2008,1053605,88533,Petrol,Trustmark Dealer,Manual,Third Owner
+Mercedes Fortuner,2016,2572948,82684,LPG,Individual,Manual,First Owner
+Jaguar Swift,2017,1515823,89558,Petrol,Individual,Automatic,Fourth & Above Owner
+Maruti X5,2007,3633372,91422,Petrol,Trustmark Dealer,Automatic,Second Owner
+Mercedes Fortuner,2016,970692,16638,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+BMW Fortuner,2006,628745,47419,Diesel,Dealer,Automatic,First Owner
+Mahindra X5,2006,873812,43377,CNG,Trustmark Dealer,Manual,First Owner
+Jaguar Fortuner,2013,3132977,116244,Petrol,Dealer,Automatic,Third Owner
+Maruti Swift,2005,3770118,33382,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Toyota Swift,2012,1558126,77789,Diesel,Individual,Manual,Fourth & Above Owner
+Jaguar X5,2010,4017042,120634,Diesel,Individual,Manual,Fourth & Above Owner
+Toyota C-Class,2010,4739170,141936,LPG,Trustmark Dealer,Manual,Second Owner
+Mahindra City,2022,736644,109572,Petrol,Dealer,Automatic,Third Owner
+Honda C-Class,2021,852416,133664,CNG,Individual,Manual,First Owner
+Jaguar Fortuner,2016,3347915,120674,Petrol,Dealer,Automatic,First Owner
+Hyundai City,2010,2973737,113533,LPG,Trustmark Dealer,Manual,Third Owner
+Toyota X5,2012,1907542,91845,Diesel,Trustmark Dealer,Manual,First Owner
+BMW X5,2023,4391896,79590,CNG,Individual,Automatic,First Owner
+Hyundai City,2014,1674620,137775,Diesel,Trustmark Dealer,Manual,Third Owner
+Audi Swift,2005,1374846,76471,LPG,Individual,Manual,First Owner
+Audi City,2017,2192569,53298,Petrol,Dealer,Manual,Fourth & Above Owner
+Maruti Fortuner,2021,2049395,58924,CNG,Individual,Manual,Second Owner
+Honda Swift,2007,1189336,19726,Diesel,Individual,Manual,Third Owner
+Mahindra X5,2012,3338102,50542,Diesel,Dealer,Automatic,Second Owner
+Jaguar City,2018,2650979,44753,Diesel,Individual,Automatic,First Owner
+Ford C-Class,2007,4105513,89788,Petrol,Individual,Manual,First Owner
+BMW C-Class,2020,2232816,31316,CNG,Trustmark Dealer,Automatic,Fourth & Above Owner
+Toyota Fortuner,2017,261753,94698,Petrol,Dealer,Automatic,Third Owner
+Mahindra C-Class,2021,1271984,25960,Petrol,Individual,Automatic,First Owner
+Hyundai City,2017,4518420,40791,Petrol,Dealer,Manual,Third Owner
+Tata City,2010,855496,35216,LPG,Dealer,Manual,Third Owner
+Audi C-Class,2021,2935090,74427,LPG,Individual,Manual,Third Owner
+Tata City,2018,3405228,122470,LPG,Trustmark Dealer,Automatic,Third Owner
+BMW Fortuner,2021,2363349,83290,CNG,Dealer,Automatic,Third Owner
+Ford Swift,2012,693992,57014,Petrol,Individual,Manual,Second Owner
+Jaguar Fortuner,2015,276240,145150,Petrol,Dealer,Manual,Fourth & Above Owner
+Maruti Fortuner,2005,4629899,60519,LPG,Trustmark Dealer,Automatic,Third Owner
+Ford City,2011,4091151,14042,Petrol,Trustmark Dealer,Automatic,Second Owner
+BMW Swift,2021,1527042,59052,Petrol,Trustmark Dealer,Manual,First Owner
+Ford City,2014,2148061,24389,Diesel,Individual,Automatic,Third Owner
+BMW X5,2015,4585224,105961,Petrol,Individual,Automatic,First Owner
+BMW City,2013,1098332,78111,Diesel,Trustmark Dealer,Automatic,Third Owner
+Mercedes City,2013,1079854,115058,Petrol,Individual,Automatic,Second Owner
+Toyota City,2009,4225942,103715,CNG,Trustmark Dealer,Automatic,Second Owner
+Tata Swift,2021,2734957,60733,LPG,Individual,Automatic,Second Owner
+Audi City,2013,363187,44754,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Mercedes Swift,2021,4849454,95886,LPG,Dealer,Manual,First Owner
+Jaguar C-Class,2023,4903855,99524,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Mercedes X5,2011,1762518,91006,Diesel,Trustmark Dealer,Automatic,Third Owner
+Honda Swift,2013,1882678,34704,Diesel,Individual,Automatic,First Owner
+Honda C-Class,2011,367527,104913,CNG,Individual,Automatic,Second Owner
+Audi Swift,2017,2944804,104108,Petrol,Individual,Manual,First Owner
+Ford Swift,2015,1787819,17493,Diesel,Individual,Manual,Second Owner
+Toyota X5,2018,1720373,79639,CNG,Individual,Automatic,Fourth & Above Owner
+Audi Fortuner,2023,794557,64383,Diesel,Individual,Manual,Fourth & Above Owner
+BMW Fortuner,2015,1190121,144066,Petrol,Dealer,Automatic,Second Owner
+Hyundai Swift,2017,3649330,57234,Diesel,Trustmark Dealer,Automatic,Second Owner
+Toyota City,2018,1925049,138674,CNG,Trustmark Dealer,Automatic,Third Owner
+Tata C-Class,2017,3445705,15594,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+Toyota City,2005,683442,17371,CNG,Dealer,Automatic,Fourth & Above Owner
+BMW City,2012,4309545,57315,Petrol,Trustmark Dealer,Automatic,Third Owner
+BMW Swift,2016,1620827,137251,Petrol,Dealer,Automatic,Fourth & Above Owner
+Maruti Swift,2023,2156874,89526,LPG,Dealer,Manual,Second Owner
+Audi Swift,2016,4131814,96005,LPG,Dealer,Automatic,First Owner
+BMW Swift,2012,4888118,115573,LPG,Trustmark Dealer,Manual,First Owner
+Honda Fortuner,2012,1951797,148202,Petrol,Dealer,Automatic,Fourth & Above Owner
+Jaguar Swift,2017,297406,147900,Diesel,Trustmark Dealer,Automatic,Third Owner
+Hyundai Fortuner,2016,3652814,67514,CNG,Trustmark Dealer,Manual,Second Owner
+Tata Fortuner,2020,3972827,85986,CNG,Individual,Manual,First Owner
+Audi Swift,2005,4778887,95959,CNG,Individual,Automatic,Second Owner
+Mahindra X5,2017,1221436,12035,LPG,Dealer,Manual,Fourth & Above Owner
+Honda C-Class,2011,3091912,119767,Petrol,Dealer,Automatic,Fourth & Above Owner
+Ford City,2009,1809184,27241,LPG,Trustmark Dealer,Automatic,First Owner
+BMW Fortuner,2012,4998793,62975,Diesel,Dealer,Manual,Fourth & Above Owner
+Mahindra C-Class,2018,4384238,66396,Petrol,Dealer,Manual,Third Owner
+BMW X5,2017,2528476,128920,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Toyota City,2019,684273,96226,LPG,Dealer,Manual,Fourth & Above Owner
+Honda City,2021,2603233,94719,LPG,Dealer,Automatic,Fourth & Above Owner
+Toyota Fortuner,2019,3022236,73014,Diesel,Trustmark Dealer,Manual,Second Owner
+Maruti Swift,2022,888332,49346,Diesel,Trustmark Dealer,Manual,Second Owner
+Toyota X5,2022,926448,80411,LPG,Individual,Manual,First Owner
+Maruti Fortuner,2006,270463,86441,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti X5,2008,1333183,56121,CNG,Individual,Manual,First Owner
+Mahindra Swift,2005,3066457,70197,Diesel,Dealer,Automatic,Fourth & Above Owner
+BMW Swift,2008,2630992,94577,Diesel,Trustmark Dealer,Automatic,Second Owner
+Ford Fortuner,2022,4514380,104634,LPG,Trustmark Dealer,Manual,Third Owner
+Tata Swift,2009,1360294,110211,LPG,Trustmark Dealer,Manual,Fourth & Above Owner
+Toyota C-Class,2023,4918784,145909,Petrol,Dealer,Automatic,Fourth & Above Owner
+Tata City,2019,2544688,11466,Petrol,Individual,Manual,Fourth & Above Owner
+Honda Fortuner,2012,236413,40771,LPG,Dealer,Automatic,Third Owner
+Maruti X5,2021,3148632,93886,Diesel,Dealer,Automatic,First Owner
+BMW C-Class,2005,764430,75911,Diesel,Trustmark Dealer,Manual,Third Owner
+Hyundai Fortuner,2016,3868508,98422,Petrol,Individual,Automatic,First Owner
+Audi Swift,2023,3224015,83369,Petrol,Dealer,Manual,Third Owner
+Mahindra Swift,2019,1115480,11893,Petrol,Trustmark Dealer,Manual,Second Owner
+Ford Swift,2013,3841141,40573,CNG,Dealer,Automatic,Fourth & Above Owner
+Mercedes Swift,2011,3581915,106907,CNG,Dealer,Automatic,Fourth & Above Owner
+Mahindra X5,2006,242056,109956,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Hyundai C-Class,2013,2348983,128580,Diesel,Trustmark Dealer,Automatic,First Owner
+Audi City,2014,3142775,101404,Petrol,Individual,Manual,Third Owner
+Hyundai X5,2006,973952,67724,CNG,Dealer,Automatic,Second Owner
+Toyota X5,2023,1108380,96133,Diesel,Trustmark Dealer,Automatic,Third Owner
+Maruti City,2015,4820792,25989,CNG,Trustmark Dealer,Manual,Fourth & Above Owner
+Ford City,2017,1537768,38931,Diesel,Individual,Manual,Second Owner
+Jaguar Swift,2014,3290930,19290,CNG,Individual,Manual,Second Owner
+Maruti X5,2018,2060971,131136,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Jaguar Fortuner,2022,1714101,89878,Diesel,Individual,Manual,Third Owner
+Tata City,2023,2530344,100477,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Audi City,2013,1606150,136299,Diesel,Dealer,Automatic,Third Owner
+BMW C-Class,2011,725005,115686,LPG,Individual,Automatic,Second Owner
+Mercedes Fortuner,2007,3619548,117286,CNG,Dealer,Manual,Second Owner
+Honda Fortuner,2010,1429458,50475,CNG,Dealer,Manual,Fourth & Above Owner
+Maruti City,2006,1367272,92666,LPG,Dealer,Manual,Second Owner
+Ford Swift,2010,4955997,106622,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai C-Class,2007,3650087,145705,Diesel,Dealer,Automatic,Second Owner
+Ford Fortuner,2020,1693551,117573,CNG,Dealer,Automatic,First Owner
+Audi City,2012,4173313,56546,LPG,Dealer,Manual,Second Owner
+Tata Fortuner,2006,2636831,17008,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Jaguar C-Class,2021,4365255,58291,Diesel,Dealer,Manual,Fourth & Above Owner
+Hyundai C-Class,2013,1906517,46386,Diesel,Dealer,Automatic,First Owner
+Honda X5,2016,3397445,100909,Petrol,Individual,Manual,Fourth & Above Owner
+Honda City,2007,3348491,43040,LPG,Trustmark Dealer,Manual,Second Owner
+Maruti C-Class,2015,555054,70354,Diesel,Dealer,Automatic,Second Owner
+Audi X5,2005,3401208,88543,Petrol,Individual,Automatic,Fourth & Above Owner
+BMW X5,2017,4039847,28157,LPG,Trustmark Dealer,Manual,Second Owner
+Audi Fortuner,2019,1366670,45315,Diesel,Trustmark Dealer,Manual,Third Owner
+Tata Fortuner,2009,880667,45932,CNG,Trustmark Dealer,Automatic,Third Owner
+Jaguar X5,2021,3048883,123880,Petrol,Trustmark Dealer,Manual,Second Owner
+Ford Fortuner,2010,2214017,142018,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda C-Class,2015,4839276,24693,Diesel,Trustmark Dealer,Automatic,First Owner
+Ford Swift,2022,4222261,37241,Diesel,Dealer,Automatic,Fourth & Above Owner
+Ford C-Class,2008,4837203,125194,Petrol,Dealer,Automatic,First Owner
+Ford X5,2007,4875519,105790,CNG,Dealer,Manual,Fourth & Above Owner
+Honda X5,2017,2199482,82255,CNG,Dealer,Automatic,Second Owner
+Tata C-Class,2013,3849244,21350,LPG,Individual,Automatic,Third Owner
+Mahindra Fortuner,2010,4814466,66809,Diesel,Dealer,Manual,Fourth & Above Owner
+Toyota Fortuner,2016,4113397,111894,CNG,Trustmark Dealer,Manual,First Owner
+Jaguar X5,2006,3288589,107557,LPG,Dealer,Automatic,Third Owner
+Mahindra City,2007,4439399,41728,CNG,Dealer,Automatic,First Owner
+Jaguar Fortuner,2007,1721722,27576,Diesel,Trustmark Dealer,Manual,Second Owner
+Hyundai C-Class,2016,2062205,93384,LPG,Dealer,Manual,Third Owner
+Audi Fortuner,2019,1665915,10390,LPG,Dealer,Automatic,First Owner
+Audi C-Class,2013,550067,55436,LPG,Dealer,Automatic,Fourth & Above Owner
